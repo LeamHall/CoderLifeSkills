@@ -6,15 +6,21 @@ trouble-shooting
  - small code in a different language
  - large codebases
  - documentation (internal to the language/tool)
- - comments
+ - valuable comments
 
 
 Extract thoughts and plans from code
+
+Concise but communicative names (methods, objects, variables)
 
 Refactor the code
 
 Figure out testability and observability
 
-Work out performance
+Work out performance questions
+
+Build a complex or large project without third party libraries
+
+Learn cybersecurity issues for your domain
 
 

@@ -8,4 +8,4 @@ Participate in a git based project
  - Learn how to learn project culture
  - Learn teamwork
 
-
+Good (and squashed) commits
