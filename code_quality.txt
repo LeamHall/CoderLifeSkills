@@ -1,0 +1,20 @@
+Code Quality
+
+peer review
+
+trouble-shooting
+ - small code in a different language
+ - large codebases
+ - documentation (internal to the language/tool)
+ - comments
+
+
+Extract thoughts and plans from code
+
+Refactor the code
+
+Figure out testability and observability
+
+Work out performance
+
+

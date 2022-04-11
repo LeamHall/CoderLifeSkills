@@ -1,0 +1,19 @@
+CI/CD
+
+Figure out a full deployment plan for your code; from VCS check-in to 
+running on all target node types.
+
+Figure out how to upgrade your code onto the targets.
+
+Figure out how to back out of your upgrade and restore to full operation.
+
+How to reset database entries.
+
+How to recover the entire site/project from a multi-part upgrade.
+
+
+
+Resources:
+
+  circleci.com
+

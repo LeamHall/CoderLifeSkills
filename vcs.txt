@@ -1,0 +1,11 @@
+Version Control Systems
+
+Set up a git (github/gitlab) project
+ - use branches
+ - do pull requests
+
+Participate in a git based project
+ - Learn how to learn project culture
+ - Learn teamwork
+
+
