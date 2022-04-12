@@ -1,14 +1,24 @@
 Career
 
-List things to learn
+Plan your life
+ - List your life goals
+ - List the things you need to learn and do to achieve those goals
+ - How to do gap analysis and resolution
+ - Where is the tech future heading?
+ - Map out your growth plans
 
-List life goals
 
-How to do gap analysis and resolution
 
-Where is the tech future heading?
+Plan for personal sustainability
+ - Allocate times to drive hard and times to rest
+ - Address long term health needs
+ - - Getting enough sleep
+ - - Drinking lots of water
+ - - Physical exercise
+ - - Fresh air and sunshine
+ - - Play
 
-Growth plans
 
-Personal sustainability
-
+Resources:
+  "The Seven Habits of Highly Effective People" by Steven Covey
+  "The Primal Connection" by Mark Sisson

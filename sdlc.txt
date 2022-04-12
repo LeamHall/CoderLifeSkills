@@ -1,7 +1,14 @@
 Software Development Life Cycle
 
+Domain Driven Design
+
 Understand business needs
+ - Fun technology doesn't always make the cut
 
 Understand resource allocation
 
 Balance business needs with personal goals
+
+
+Resources:
+  "Domain Driven Design: Tackling Complexity in the Heart of Software" by Eric Evans

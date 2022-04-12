@@ -3,9 +3,17 @@ Version Control Systems
 Set up a git (github/gitlab) project
  - use branches
  - do pull requests
+ - Good (and squashed) commits
 
 Participate in a git based project
  - Learn how to learn project culture
  - Learn teamwork
+ - Contribute
 
-Good (and squashed) commits
+
+
+Resources:
+
+  github.com
+  gitlab.com
+  git-scm.com

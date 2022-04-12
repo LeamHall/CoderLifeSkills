@@ -1,7 +1,16 @@
 Testing
 
-TDD/BDD/DDD
+TDD/BDD
 
 Unit testing
+ - Code coverage reports
 
 Testing frameworks
+
+
+
+Resources:
+
+  cypress.io
+  cucumber.io
+

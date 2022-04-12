@@ -4,11 +4,11 @@ Understand the interview process
 
 How to evaluate jobs and interviewers
 
-self-marketing
+Self-marketing
 
 Updated resume
 
-image cohesion
+Image cohesion
  - linkedin
  - resume
  - github
@@ -19,6 +19,5 @@ image cohesion
 
 Resources:
 
-Toastmasters
-
-Personal MBA
+  toastmasters.org
+  "The Personal MBA: Master the Art of Business" by Josh Kaufman

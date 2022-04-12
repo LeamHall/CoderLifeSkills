@@ -1,26 +1,23 @@
 Code Quality
 
-peer review
+Peer review
 
-trouble-shooting
+Trouble-shooting
  - small code in a different language
  - large codebases
  - documentation (internal to the language/tool)
  - valuable comments
 
 
-Extract thoughts and plans from code
-
-Concise but communicative names (methods, objects, variables)
-
 Refactor the code
-
-Figure out testability and observability
-
-Work out performance questions
+ - Extract thoughts and plans from code
+ - Concise but communicative names (methods, objects, variables)
+ - Testability and observability
+ - Performance measurements
 
 Build a complex or large project without third party libraries
 
-Learn cybersecurity issues for your domain
+Learn cyber security issues for your domain
 
-
+Resources:
+  "The Pragmatic Programmer: Your Journey to Mastery" by David Thomas and Andrew Hunt
